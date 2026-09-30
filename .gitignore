@@ -35,7 +35,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-*.mp4
+
 
 # typescript
 *.tsbuildinfo
